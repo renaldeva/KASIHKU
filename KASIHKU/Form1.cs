@@ -14,7 +14,7 @@ namespace KASIHKU
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            MessageBox.Show("Button berhasil diklik!", "Info", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
     }
